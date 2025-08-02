@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um profissional com experiência sólida em gestão escolar e vivência na área de engenharia civil, onde sempre atuei com um olhar analítico, criterioso e orientado a resultados concretos.<br><br>Atualmente, estou totalmente dedicado à área de tecnologia e dados, aplicando minha bagagem multidisciplinar na análise e solução de problemas com foco em gerar valor real e mensurável por meio dos dados.<br><br>Tenho estudado com foco em Python, SQL, Excel, Power BI e Ciência de Dados, desenvolvendo projetos práticos e aplicáveis ao dia a dia de empresas.</p>
+<p align="left">Sou um profissional com experiência sólida em gestão escolar e vivência na área de engenharia civil, onde sempre atuei com um olhar analítico, criterioso e orientado a resultados concretos.<br><br>Atualmente, estou totalmente dedicado à área de tecnologia e dados, aplicando minha bagagem multidisciplinar na análise e solução de problemas com foco em gerar valor real e mensurável por meio dos dados.<br><br>Tenho estudado com foco em Python, SQL, Excel, Power BI e Machine Learning, desenvolvendo projetos práticos e aplicáveis ao dia a dia de empresas.</p>
 
 ###
 
